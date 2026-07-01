@@ -214,6 +214,6 @@ Server up: http://localhost:3300
 📸 Screenshots
 (Tip: Add your operational server and web UI screenshots here!)
 
-Terminal Server Up Output: ![Terminal Status](path/to/screenshot1.png)
+Terminal Server Up Output: https://github.com/amarsaleem333/project4/blob/main/Server%20up%20Screen%20.png
 
 Browser Management UI View: ![Browser UI](path/to/screenshot2.png)
