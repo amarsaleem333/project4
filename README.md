@@ -208,10 +208,6 @@ cd ~/Books
 node server.js
 Verify that the console confirms active connectivity:
 
-Plaintext
-MongoDB connected
-Server up: http://localhost:3300
-📸 Screenshots
 
 
 Terminal Server Up Output: https://github.com/amarsaleem333/project4/blob/main/Server%20up%20Screen%20.png
